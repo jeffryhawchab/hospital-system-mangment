@@ -28,8 +28,8 @@ To get started with the Hospital Management System, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/hospital-management-system.git
-    cd hospital-management-system
+    git clone https://github.com/XpertBotTeam/hospital-system-mangment
+    cd hospital-system-mangment
     ```
 
 2. **Install PHP dependencies:**
@@ -103,9 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 We would like to thank the Laravel community for their valuable resources and support.
 
-## Contact
 
-For any inquiries or support, please contact us at [support@hospitalms.com](mailto:support@hospitalms.com).
 
 ---
 
