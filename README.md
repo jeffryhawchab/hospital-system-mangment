@@ -118,55 +118,46 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 We would like to thank the Laravel community for their valuable resources and support.
 
 
-Perfect — here's the **Contributing** section with **proper Markdown formatting** and **code blocks**, ready to paste into your README:
+Got it, here's the **Contributing** section in **plain text**, clean and copy-ready — no Markdown, no code blocks:
 
-````md
+---
+
 ## Contributing
 
 We welcome contributions from the community to improve the Hospital Management System!
 
-### How to Contribute
+How to Contribute:
 
-1. **Fork the repository** and clone it to your local machine.
-2. **Create a new branch** for your feature or bug fix:
-
-   ```bash
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix:
    git checkout -b feature/your-feature-name
-````
+3. Make your changes and ensure everything works properly.
+4. Commit and push your changes to your forked repository.
+5. Open a Pull Request to the main repository with a clear explanation of your changes.
 
-3. **Make your changes**, and ensure everything runs smoothly.
-4. **Commit and push** your changes to your forked repository.
-5. **Open a Pull Request** on the main repository with a clear description of what you’ve done.
-
-### Contribution Ideas
+Contribution Ideas:
 
 * Fix bugs or UI issues
-* Add new features (e.g., telemedicine support, advanced analytics)
-* Improve performance or code structure
+* Add new features (like telemedicine support or advanced analytics)
+* Improve performance or structure of the code
 * Add unit tests
-* Update or expand documentation
+* Update or expand the documentation
 
-### Development Guidelines
+Development Guidelines:
 
 * Follow PSR-12 coding standards.
-* Use meaningful commit messages.
-* Ensure no errors or warnings after running:
-
-  ```bash
+* Write meaningful commit messages.
+* Ensure no errors after running:
   php artisan
   npm run dev
-  ```
 
-### Need Help?
+Need Help?
 
-If you're unsure where to start, check the [Issues](../../issues) tab for labels like `good first issue` or `help wanted`.
+If you're not sure where to start, check the "Issues" tab on GitHub for labels like "good first issue" or "help wanted."
 
-We appreciate every contribution — whether it's a bug fix, documentation update, or a new feature!
-Let me know if you want this committed directly into your GitHub repo or if you want a standalone `CONTRIBUTING.md` file too.
-
-
-
+We appreciate every contribution, whether it's a bug fix, documentation update, or new feature!
 
 ---
+
 
 Thank you for using the Hospital Management System. We hope it helps you manage your hospital efficiently and effectively.
