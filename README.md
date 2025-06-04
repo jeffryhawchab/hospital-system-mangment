@@ -2,6 +2,20 @@
 
 The Hospital Management System (HMS) is a software program designed to help hospitals manage their activities and events efficiently. It is built specifically using the PHP Laravel framework, providing a robust and scalable solution for hospital administration.
 
+## Donations
+
+If you find this project helpful and would like to support its development, feel free to donate using any of the following cryptocurrencies:
+
+- **Bitcoin (BTC)**
+  - Wallet Address: `bc1qnltxtcr289evyvwtguplz25uv36xwwateqawnr`
+
+- **Ethereum (ETH)**
+  - Wallet Address: `0x6193e77e13720A4Bb96C18C060A9d0921b90Fe70`
+
+- **Solana (SOL)**
+  - Wallet Address: `5q4RyiJUxu33kGMqiwCugvcbuttq9QMNzZByJvhTwZN9`
+
+
 ## Features
 
 - **Patient Management**: Manage patient information, admissions, discharges, and medical history.
