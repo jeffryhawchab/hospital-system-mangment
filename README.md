@@ -162,11 +162,7 @@ We welcome contributions from the community to improve the Hospital Management S
 If you're unsure where to start, check the [Issues](../../issues) tab for labels like `good first issue` or `help wanted`.
 
 We appreciate every contribution — whether it's a bug fix, documentation update, or a new feature!
-
-```
-
 Let me know if you want this committed directly into your GitHub repo or if you want a standalone `CONTRIBUTING.md` file too.
-```
 
 
 
